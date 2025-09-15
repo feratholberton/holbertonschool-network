@@ -2,4 +2,4 @@
 # Shows listening sockets
 # Shows the PID and name of the program to which each socket belongs
 
-netstat -listening --programs
+netstat --listening --programs
